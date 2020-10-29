@@ -31,7 +31,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 - "morgan": "^1.9.1"
 
 [Deployed App](https://pure-cove-20040.herokuapp.com/)
-![Logo](/img/PWB-logo-md.png)
-![Screenshot](/img/PWB-screenshot.jpg)
+![Logo](https://user-images.githubusercontent.com/5247408/97630578-6d844900-19f5-11eb-9d2e-067efba76f67.png)
+![Screenshot](https://user-images.githubusercontent.com/5247408/97630540-5e9d9680-19f5-11eb-9bd0-0c806306012b.jpg)
 Photo by Guillermo Giovine via Unsplash.com
 Photo by Matthew McBrayer via Unsplash.com
