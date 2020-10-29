@@ -12,7 +12,8 @@ const FILES_TO_CACHE = [
   "/icons/icon-96x96.png",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
-  "/img/finances.jpg",
+  "/img/guillermo-giovine-DkzcUcjw_yw-unsplash.jpg",
+  "/img/matthew-mcbrayer-qD9xzm7yK9U-unsplash.jpg",
   "/img/PWB-icon.png",
   "/img/PWB-logo-md.png",
 ];
